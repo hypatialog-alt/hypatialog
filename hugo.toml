@@ -1,0 +1,28 @@
+baseURL = 'https://hypatialog.netlify.app/'
+languageCode = 'en'
+title = 'HypatiaLog'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "dark"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  description = "Documenting my journey into math and science, one week at a time."
+
+[params.homeInfoParams]
+  Title = "Hypatia's Log"
+  Content = "Documenting my self-study journey into mathematics and science."
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+  [[menu.main]]
+    name = "Progress Reports"
+    url = "/progress-reports/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
