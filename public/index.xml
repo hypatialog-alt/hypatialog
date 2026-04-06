@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HypatiaLog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://hypatialog.netlify.app/</link>
     <description>Recent content on HypatiaLog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 19:09:53 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/blog/first-post/</link>
-      <pubDate>Sun, 05 Apr 2026 19:09:53 -0300</pubDate>
-      <guid>http://localhost:1313/blog/first-post/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Hello world&amp;rdquo;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hypatialog.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://hypatialog.netlify.app/about/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://hypatialog.netlify.app/about/</guid>
       <description>&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m a 30-year-old from Latin America. A few months ago I was laid off from my job. I have about 18 months of runway in savings; my plan is to use this time to prepare for what I actually want to do: go back to college and pursue a STEM degree.&lt;/p&gt;
 &lt;h2 id=&#34;whats-the-plan&#34;&gt;What&amp;rsquo;s the plan?&lt;/h2&gt;
